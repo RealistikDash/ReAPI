@@ -1,3 +1,4 @@
+[![PyPI version](https://badge.fury.io/py/ReAPI.svg)](https://badge.fury.io/py/ReAPI)
 # ReAPI
 And easy to use, aiohttp based framework for creating APIs.
 
