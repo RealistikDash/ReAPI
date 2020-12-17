@@ -1,11 +1,11 @@
 from aiohttp import web
-from .exceptions import (
+from exceptions import (
     ReAPIPoolException,
     ReAPIPoolNotCreated,
     ReAPIBadWebHandler,
     ReAPIIncorrectResponseType
 )
-from .objects import Handler
+from objects import Handler
 import aiomysql
 import re
 import asyncio
